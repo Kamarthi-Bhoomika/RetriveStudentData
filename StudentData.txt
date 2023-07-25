@@ -1,0 +1,10 @@
+﻿101	Bhuvin	24	Female	Bangalore
+102	Sparsha	23	Female	Delhi
+103	Anu	23	Female	Pune
+104	Amit	24	Male	Mumbai
+105	Arun	25	Male	Chennai
+106	Sam	23	Male	Hyderabad
+107	Zara	24	Female	Delhi
+108	Zavin	23	Male	Bangalore
+109	Priya	24	Female	Delhi
+110	Nipun	23	Male	Pune

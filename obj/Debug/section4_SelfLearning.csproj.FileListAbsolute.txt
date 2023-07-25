@@ -1,0 +1,8 @@
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\bin\Debug\section4_SelfLearning.exe.config
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\bin\Debug\section4_SelfLearning.exe
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\bin\Debug\section4_SelfLearning.pdb
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\obj\Debug\section4_SelfLearning.csproj.AssemblyReference.cache
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\obj\Debug\section4_SelfLearning.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\obj\Debug\section4_SelfLearning.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\obj\Debug\section4_SelfLearning.exe
+D:\Mphasis\.net\section4_SelfLearning\section4_SelfLearning\obj\Debug\section4_SelfLearning.pdb
